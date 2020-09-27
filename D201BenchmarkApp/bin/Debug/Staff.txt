@@ -1,0 +1,7 @@
+2011097,Taylor Swift,23/1/1993,taylorswift@hotmail.com,237890
+2017890,Michale Jackson,12/8/1983,michalebest@yahoo.com,189099
+2011076,Kimi Wang,14/11/1990,kimiwang@gmail.com,219050
+2012089,Fluffy Will,3/12/2010,fluffy006@gmail.com,198800
+2008679,Donald Trump,2/2/2000,donaldt01@yahoo.com,201000
+2015023,Champ Dan,10/12/1997,champdan01@gmail.com,201000
+2006780,Britney Spears,13/11/1975,britneyspears@gmail.com,230920

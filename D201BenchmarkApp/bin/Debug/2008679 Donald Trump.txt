@@ -1,0 +1,6 @@
+STAFF DETAILS
+Staff ID: 2008679
+Staff Name: Donald Trump
+Staff Birthday: 2/2/2000
+Staff Email: donaldt01@yahoo.com
+Staff Annual Salary: $201000

@@ -1,0 +1,6 @@
+STAFF DETAILS
+Staff ID: 2006780
+Staff Name: Britney Spears
+Staff Birthday: 13/11/1975
+Staff Email: britneyspears@gmail.com
+Staff Annual Salary: $230920

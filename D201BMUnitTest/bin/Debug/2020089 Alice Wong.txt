@@ -1,0 +1,6 @@
+STAFF DETAILS
+Staff ID: 2020089
+Staff Name: Alice Wong
+Staff Birthday: 17/08/2000
+Staff Email: alicewong01@gmail.com
+Staff Annual Salary: $19800

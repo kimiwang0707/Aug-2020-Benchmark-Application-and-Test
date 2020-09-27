@@ -1,0 +1,6 @@
+STAFF DETAILS
+Staff ID: 2011097
+Staff Name: Taylor Swift
+Staff Birthday: 23/1/1993
+Staff Email: taylorswift@hotmail.com
+Staff Annual Salary: $237890
